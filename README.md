@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Cholakkal
-- 👀 I’m interested in AI/Ml and Web-Dev
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in AI/Ml
+- 🌱 I’m currently learning Scikit-Learn
 - 📫 How to reach me aryacholakkal20002@gmail.com
 
 <!---
